@@ -8,9 +8,9 @@ export default function Signatures({ currentLang }: SignaturesProps) {
       title: "招牌单品",
       viewAll: "全部饮品 →",
       drinks: [
-        { name: "北干那那 · 凤梨", price: "MYR 11.99", image: "/assets/sig1.png", alt: "Pekan Nanas 主图" },
-        { name: "好柿花生", price: "MYR 11.99", image: "/assets/sig2.png", alt: "Prosperity Persimmon Peanut 主图" },
-        { name: "椰浆饭 · 套袋款", price: "MYR 11.99", image: "/assets/sig3.png", alt: "Nasi Lemak Bungkus 主图" },
+        { name: "北干那那 · 凤梨", price: "MYR 11.99", image: "/assets/sig1.webp", alt: "Pekan Nanas 主图" },
+        { name: "好柿花生", price: "MYR 11.99", image: "/assets/sig2.webp", alt: "Prosperity Persimmon Peanut 主图" },
+        { name: "椰浆饭 · 套袋款", price: "MYR 11.99", image: "/assets/sig3.webp", alt: "Nasi Lemak Bungkus 主图" },
       ],
     },
     en: {

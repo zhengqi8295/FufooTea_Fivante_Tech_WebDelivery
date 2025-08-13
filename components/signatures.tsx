@@ -23,7 +23,7 @@ export default function Signatures({ currentLang }: SignaturesProps) {
         {
           name: "Prosperity · Persimmon Peanut",
           price: "MYR 11.99",
-          image: "/assets/sig2.webp.jpg",
+          image: "/assets/sig2.webp",
           alt: "Prosperity Persimmon Peanut 主图",
         },
         { name: "Nasi Lemak · Bungkus", price: "MYR 11.99", image: "/assets/sig3.webp", alt: "Nasi Lemak Bungkus 主图" },

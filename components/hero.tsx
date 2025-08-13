@@ -24,7 +24,7 @@ export default function Hero({ currentLang }: HeroProps) {
     const lightbox = document.querySelector(".lightbox") as HTMLElement
     const img = lightbox?.querySelector("img") as HTMLImageElement
     if (lightbox && img) {
-      img.src = "/assets/Cover.png"
+      img.src = "/assets/cover.png"
       lightbox.setAttribute("aria-hidden", "false")
     }
   }
@@ -56,7 +56,7 @@ export default function Hero({ currentLang }: HeroProps) {
         </div>
         <div
           className="aspect-[4/3] rounded-3xl relative overflow-hidden shadow-[var(--shadow-lg)] bg-cover bg-center cursor-zoom-in"
-          style={{ backgroundImage: "url(/assets/Cover.png)" }}
+          style={{ backgroundImage: "url(/assets/cover.png)" }}
           aria-label="品牌视觉背景"
           onClick={handleHeroClick}
         />

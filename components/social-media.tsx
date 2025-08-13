@@ -20,7 +20,7 @@ export default function SocialMedia({ currentLang }: SocialMediaProps) {
     },
     {
       platform: "Instagram",
-      image: "/assets/Ins1.png",
+      image: "/assets/ins1.png",
       alt: "Instagram Reels",
       url: "https://www.instagram.com/reel/DNFPywJzzBZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
       label: "Instagram Reels",

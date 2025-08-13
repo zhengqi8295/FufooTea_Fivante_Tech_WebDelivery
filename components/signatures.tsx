@@ -19,14 +19,14 @@ export default function Signatures({ currentLang }: SignaturesProps) {
       title: "Signatures",
       viewAll: "All Drinks →",
       drinks: [
-        { name: "Pekan Nanas · Pineapple", price: "MYR 11.99", image: "/assets/2.jpg", alt: "Pekan Nanas 主图" },
+        { name: "Pekan Nanas · Pineapple", price: "MYR 11.99", image: "/assets/sig1.webp", alt: "Pekan Nanas 主图" },
         {
           name: "Prosperity · Persimmon Peanut",
           price: "MYR 11.99",
-          image: "/assets/3.jpg",
+          image: "/assets/sig2.webp.jpg",
           alt: "Prosperity Persimmon Peanut 主图",
         },
-        { name: "Nasi Lemak · Bungkus", price: "MYR 11.99", image: "/assets/1.jpg", alt: "Nasi Lemak Bungkus 主图" },
+        { name: "Nasi Lemak · Bungkus", price: "MYR 11.99", image: "/assets/sig3.webp", alt: "Nasi Lemak Bungkus 主图" },
       ],
     },
   }
